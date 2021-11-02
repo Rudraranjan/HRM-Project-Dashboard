@@ -1,0 +1,33 @@
+/* Css for navbar */
+.nav-font{
+    font-weight: 700;
+}
+
+
+
+
+/* Css for left section */
+
+.link-anchor{
+    text-decoration: none;
+    padding: 40px;
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+}
+.link-anchor:hover{
+    text-decoration: none;
+    padding: 40px;
+    color: rgb(2, 2, 2);
+    font-weight: 800;
+}
+.bg-color{
+    background-color: rgb(6, 181, 250);
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+}
+.bg-color:hover{
+    background-color: rgb(176, 244, 253);
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+    
+}
